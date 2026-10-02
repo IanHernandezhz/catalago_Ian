@@ -3,3 +3,7 @@ Aplicación para registrar y consultar libros, sitios web, videos y herramientas
 
 ## Objetivos y Tecnologías
 - Python 3.x, Requests, Rich
+## Próximas mejoras
+- Incorporar autenticación de usuarios.
+- Conectar base de datos PostgreSQL.
+
