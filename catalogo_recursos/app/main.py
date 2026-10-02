@@ -1,0 +1,1 @@
+print("Catálogo de recursos académicos v1.0.0")
