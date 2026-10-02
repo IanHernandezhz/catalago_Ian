@@ -1,4 +1,5 @@
 [
   { "id": 1, "titulo": "Python Docs", "tipo": "Web" },
   { "id": 2, "titulo": "Aprende Git", "tipo": "Libro" }
+  { "id": 3, "titulo": "Curso de Python en YouTube", "tipo": "Video" }
 ]
